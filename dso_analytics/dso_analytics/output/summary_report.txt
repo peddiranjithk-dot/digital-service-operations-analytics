@@ -1,0 +1,57 @@
+DIGITAL SERVICE OPERATIONS ANALYTICS - SUMMARY REPORT
+========================================================
+
+KEY METRICS
+  Total tickets                  5000
+  Resolved tickets               4778
+  Open tickets                   222
+  Resolution rate (%)            95.6
+  Avg resolution time (hrs)      26.6
+  Median resolution time (hrs)   19.7
+  SLA compliance (%)             86.2
+  Avg CSAT (1-5)                 3.74
+
+BY CHANNEL
+            tickets  avg_hours  sla_pct  csat
+channel                                      
+Chat            789      26.11    86.44  3.72
+Email           860      27.23    86.98  3.77
+Mobile App     1394      27.19    84.79  3.68
+Phone           397      24.97    90.43  3.83
+Web Portal     1338      26.33    85.95  3.76
+
+BY CATEGORY
+                 tickets  avg_hours  sla_pct  csat
+category                                          
+Account Update       781      27.49    85.66  3.79
+Billing Query        744      26.96    84.95  3.67
+Feature Request      840      26.42    86.67  3.72
+Login Issue          778      25.87    87.53  3.71
+Payment Failure      811      26.35    87.05  3.79
+Technical Error      824      26.50    85.56  3.74
+
+BY PRIORITY
+          tickets  avg_hours  sla_pct  csat
+priority                                   
+Critical      337       6.53    76.26  3.90
+High         1039      15.30    82.58  3.87
+Medium       1932      26.74    88.04  3.79
+Low          1470      38.97    88.78  3.54
+
+BY AGENT
+        tickets  avg_hours  sla_pct  csat
+agent                                    
+Sana        599      25.40    88.15  3.70
+Meera       599      25.46    87.81  3.81
+Vikram      623      25.94    87.48  3.73
+Asha        608      26.45    86.02  3.64
+Kiran       553      26.12    85.90  3.82
+Arjun       642      27.26    85.67  3.81
+Divya       574      27.30    84.84  3.66
+Ravi        580      28.85    83.97  3.73
+
+INSIGHTS
+  - Busiest channel: Mobile App
+  - Slowest category to resolve: Account Update
+  - Top agent by SLA compliance: Sana
+  - Agent needing support (lowest SLA): Ravi
